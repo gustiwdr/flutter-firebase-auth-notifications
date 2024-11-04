@@ -1,0 +1,25 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "pemrograman-mobile-41673",
+          "appId": "1:49703329928:android:8ff46de20ae53cfd90ff3d",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "pemrograman-mobile-41673",
+          "configurations": {
+            "android": "1:49703329928:android:8ff46de20ae53cfd90ff3d",
+            "ios": "1:49703329928:ios:873d8ae0682b33db90ff3d",
+            "macos": "1:49703329928:ios:873d8ae0682b33db90ff3d",
+            "web": "1:49703329928:web:c29357ec41738ad790ff3d",
+            "windows": "1:49703329928:web:46aabf7537a6b5d990ff3d"
+          }
+        }
+      }
+    }
+  }
+}
